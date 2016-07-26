@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="browmodulApp">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>File Browsing</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body ng-controller="browcontrCtrl">
+
+    <div class="container">
+        <div>
+            <table class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Less 10 Mb</th>
+                        <th>10 Mb - 50 Mb</th>
+                        <th>More 100 Mb</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{{number[0]}}</td>
+                        <td>{{number[1]}}</td>
+                        <td>{{number[2]}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+       
+       
+        <p><strong>Current path: </strong>{{temps}}</p>
+        <a href="#/" ng-click="BackWays()">..</a>
+        <div ng-repeat="dir in directories">
+
+            <p><a href="#/" ng-click="Ways(dir)">{{dir}}</a></p>
+
+        </div>
+       
+        
+       
+
+        
+       
+    </div>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="angular/controllers/controller.js"></script>
+    <script src="Scripts/angular"></script> 
+
+</body>
+</html>

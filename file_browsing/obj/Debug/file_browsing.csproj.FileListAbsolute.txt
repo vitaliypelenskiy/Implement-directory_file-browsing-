@@ -1,0 +1,135 @@
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\file_browsing.dll.config
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\file_browsing.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\file_browsing.pdb
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\Antlr3.Runtime.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\Microsoft.Web.Infrastructure.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\Newtonsoft.Json.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Net.Http.Formatting.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Cors.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Helpers.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Http.Cors.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Http.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Http.WebHost.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Mvc.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Optimization.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Razor.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.WebPages.Deployment.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.WebPages.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.WebPages.Razor.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\WebGrease.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\Newtonsoft.Json.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Net.Http.Formatting.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Http.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Http.Cors.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Http.WebHost.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Helpers.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Mvc.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Optimization.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.Razor.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.WebPages.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.WebPages.Deployment.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\System.Web.WebPages.Razor.xml
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\Antlr3.Runtime.pdb
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.Http.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.Helpers.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.Mvc.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.Optimization.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.Razor.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.WebPages.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\obj\Debug\file_browsing.csprojResolveAssemblyReference.cache
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\obj\Debug\file_browsing.dll
+c:\users\вітальчик\documents\visual studio 2013\Projects\file_browsing\file_browsing\obj\Debug\file_browsing.pdb
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\file_browsing.dll.config
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\file_browsing.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\file_browsing.pdb
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\Antlr3.Runtime.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\Newtonsoft.Json.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Net.Http.Formatting.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Cors.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Helpers.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Http.Cors.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Http.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Http.WebHost.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Mvc.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Optimization.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Razor.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.WebPages.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.WebPages.Razor.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\WebGrease.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\Newtonsoft.Json.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Net.Http.Formatting.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Http.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Http.Cors.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Http.WebHost.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Helpers.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Mvc.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Optimization.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.Razor.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.WebPages.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\System.Web.WebPages.Razor.xml
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\Antlr3.Runtime.pdb
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.Http.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.Razor.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\obj\Debug\file_browsing.csprojResolveAssemblyReference.cache
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\obj\Debug\file_browsing.dll
+C:\Users\ВІтальчик\Desktop\file_browsing\file_browsing\obj\Debug\file_browsing.pdb
+E:\file_browsing\file_browsing\bin\file_browsing.dll.config
+E:\file_browsing\file_browsing\bin\file_browsing.dll
+E:\file_browsing\file_browsing\bin\file_browsing.pdb
+E:\file_browsing\file_browsing\bin\Antlr3.Runtime.dll
+E:\file_browsing\file_browsing\bin\Microsoft.Web.Infrastructure.dll
+E:\file_browsing\file_browsing\bin\Newtonsoft.Json.dll
+E:\file_browsing\file_browsing\bin\System.Net.Http.Formatting.dll
+E:\file_browsing\file_browsing\bin\System.Web.Cors.dll
+E:\file_browsing\file_browsing\bin\System.Web.Helpers.dll
+E:\file_browsing\file_browsing\bin\System.Web.Http.Cors.dll
+E:\file_browsing\file_browsing\bin\System.Web.Http.dll
+E:\file_browsing\file_browsing\bin\System.Web.Http.WebHost.dll
+E:\file_browsing\file_browsing\bin\System.Web.Mvc.dll
+E:\file_browsing\file_browsing\bin\System.Web.Optimization.dll
+E:\file_browsing\file_browsing\bin\System.Web.Razor.dll
+E:\file_browsing\file_browsing\bin\System.Web.WebPages.Deployment.dll
+E:\file_browsing\file_browsing\bin\System.Web.WebPages.dll
+E:\file_browsing\file_browsing\bin\System.Web.WebPages.Razor.dll
+E:\file_browsing\file_browsing\bin\WebGrease.dll
+E:\file_browsing\file_browsing\bin\Newtonsoft.Json.xml
+E:\file_browsing\file_browsing\bin\System.Net.Http.Formatting.xml
+E:\file_browsing\file_browsing\bin\System.Web.Http.xml
+E:\file_browsing\file_browsing\bin\System.Web.Http.Cors.xml
+E:\file_browsing\file_browsing\bin\System.Web.Http.WebHost.xml
+E:\file_browsing\file_browsing\bin\System.Web.Helpers.xml
+E:\file_browsing\file_browsing\bin\System.Web.Mvc.xml
+E:\file_browsing\file_browsing\bin\System.Web.Optimization.xml
+E:\file_browsing\file_browsing\bin\System.Web.Razor.xml
+E:\file_browsing\file_browsing\bin\System.Web.WebPages.xml
+E:\file_browsing\file_browsing\bin\System.Web.WebPages.Deployment.xml
+E:\file_browsing\file_browsing\bin\System.Web.WebPages.Razor.xml
+E:\file_browsing\file_browsing\bin\Antlr3.Runtime.pdb
+E:\file_browsing\file_browsing\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.Http.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.Helpers.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.Mvc.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.Optimization.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.Razor.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.WebPages.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\file_browsing\file_browsing\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\file_browsing\file_browsing\obj\Debug\file_browsing.csprojResolveAssemblyReference.cache
+E:\file_browsing\file_browsing\obj\Debug\file_browsing.dll
+E:\file_browsing\file_browsing\obj\Debug\file_browsing.pdb
